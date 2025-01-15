@@ -1,4 +1,4 @@
-Deps = Guy
+DEPS = Guy
 compile: main.c 
 	 gcc main.c -o $(DEPS)
 
